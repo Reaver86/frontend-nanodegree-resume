@@ -81,7 +81,7 @@ var education = {
 	"onlineCourses": [{
 		"title": "FEND",
 		"school": "Udacity",
-		"dates": 2016,
+		"dates": "2016",
 		"url": "https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001"
 	}],
 	"display": function() {
